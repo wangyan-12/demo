@@ -1,4 +1,4 @@
-1.今天上午和下午去听了报告会。主要听了来自南京大学的仲盛教授的名为Privacy-Preserving Data Integrity Verification in Mobile Edge Computing"的报告，了解了一下云计算和边缘计算的优缺点。
+1.今天上午和下午去听了报告会。听了来自南京大学的仲盛教授的名为Privacy-Preserving Data Integrity Verification in Mobile Edge Computing"的报告，了解了一下云计算和边缘计算的优缺点。
  这个报告讲了边缘计算的数据完整性，以及如何验证边缘节点的数据完整性和解决措施。报告中有讲HVT（Homomorphic Vrifiable Tags）和PIR（Private Information Retrieval），回来后自己了解了一
  下PIR：
  PIR————PIR协议是允许用户从拥有数据库的服务器检索项目而不揭示检索哪个项目的协议。
