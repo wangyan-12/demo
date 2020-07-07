@@ -1,0 +1,9 @@
+2020/4/16 星期四 工作汇报：
+
+论文Secure Real-time Traffic Data Aggregation with Batch Verification for Vehicular Cloud in VANETs看到了预备知识这一部分，了解到了MRS（Message Recovery 
+Signature）这一技术，包含Setup、Extract、sign、Verify这四个部分，感觉跟以往看的论文的基本步骤很像。
+
+这篇论文有三个贡献点：
+1）使用MRS构造数据聚合方案-->低计算开销。
+2）提出一种机制验证签名，另外使用了批验证。
+3）提供数据机密性、隐私保护、以及抗reply attack（这个reply attack在以前看的论文中都没见过，以前都是replay attack，后面重点了解一下）。

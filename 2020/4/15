@@ -1,0 +1,6 @@
+2020/4/15 星期三 工作汇报：
+
+1.上午在上英语课。
+2.看论文Aggregate and Verifiably Encrypted Signatures from Bilinear Maps和Secure Real-time Traffic Data Aggregation with Batch Verification for Vehicular
+ Cloud in VANETs，后者讲的是利用消息恢复签名(MRS)的数据恢复特性，提出了一种面向VANETs车辆云的安全实时交通数据聚合方案。该方案首先验证车辆签名的有效性，然
+ 后从签名中恢复原始交通数据。此外，该方案还支持多车辆签名的批量验证。后面的汇报准备讲这篇论文。
