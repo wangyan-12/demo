@@ -1,0 +1,4 @@
+2020/7/22 星期三 工作汇报：
+
+下午主要是会议，找到了一篇论文Privacy-Preserving Cloud Establishment and Data Dissemination Scheme for Vehicular Cloud，来自IEEE Transactions on Dependable and Secure Computing。
+这篇论文提出了一种用于VC建立和数据发布的安全、隐私保护的通信方案。该方案基于身份的公钥密码体制，允许一组车辆以安全的匿名方式形成VC。还提供了高效的连接和离开协议，以支持云用户动态。一旦VC形成，云用户可以安全地匿名地向VC发送消息。大概浏览了论文的内容，跟车联网有不少共同的内容，所以准备细看。
