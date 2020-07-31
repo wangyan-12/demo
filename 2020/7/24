@@ -1,0 +1,5 @@
+2020/7/24 星期五 工作汇报：
+
+继续看论文Privacy-Preserving Cloud Establishment and Data Dissemination Scheme for Vehicular Cloud，论文中存在7个实体，分别为TA、RSU、车辆、cloud member、cloud user、cloud manager以及center cloud manager(CCM)，这跟以往看过的论文还是不太一样的。
+另外这篇论文使用ID-PKC，还有两个building blocks：非对称组密钥协议（AGKA），基于位置的加密方案（LBE）。
+后面继续看论文的具体方案。
