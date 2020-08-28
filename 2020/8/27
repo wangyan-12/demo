@@ -1,6 +1,6 @@
 2020/8/27 星期四 工作汇报：
 
-今天回顾了关于论文的内容，然后找了一篇TPDC的论文ACPN: A Novel Authentication Framework with Conditional Privacy-Preservation and Non-Repudiation for VANETs，但是比较早，是15年的了，感觉里面V2R和R2V的认证可以看一下，下面是论文的贡献点
+今天回顾了关于论文的内容，然后找了一篇TPDS的论文ACPN: A Novel Authentication Framework with Conditional Privacy-Preservation and Non-Repudiation for VANETs，但是比较早，是15年的了，感觉里面V2R和R2V的认证可以看一下，下面是论文的贡献点
 1）提出的ACPN为隐私保护提供了有条件的车辆匿名性和不可抵赖性，以防止恶意车辆滥用匿名认证技术实现恶意攻击。
 2）引入了公钥加密(PKC)来生成假名，以确保合法的第三方通过获取车辆的真实id来实现车辆的不可否认性。
 3）我们提出了一种基于pkc的自适应假名方案，通过使用自生成的假名而不是真实世界的id来进行隐私保护和不可抵赖的认证，其中假名的更新取决于车辆的需求。在ACPN中，我们采用IBS方案进行车辆到路边的认证和路侧到车辆(R2V)认证，通信效率高。
