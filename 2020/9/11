@@ -1,0 +1,7 @@
+2020/9/11 星期五 工作汇报：
+
+1.准备汇报的内容，下午主要是汇报。
+2.因为是想做的轻量级的通信认证，想用的也是哈希和异或的操作，但今天汇报的时候，耿樱雪师姐提到仅仅使用哈希操作的话，追踪性是一个很大的问题，但是使用哈希的同时，达到可追踪性，开销又是一个很大的问题。结束之后又找师姐聊了一下，师姐建议目前先要完全了解现在用的哈希算法。
+  今天汇报的论文是参考自论文2017+VC+Design of authentication protocol for wireless sensor network-based smart vehicular system的，准备将这篇论文看一看。
+3.另外也问了王梦师姐关于追踪性的问题，师姐推荐了一篇陶雪飞师兄的使用了哈希实现可追踪性的论文HCPA-GKA: A hash function-based conditional privacy-preserving authentication and group-key agreement scheme for VANETs（2018+VC），也要看下这篇论文，看看轻量级是否能实现。
+  
