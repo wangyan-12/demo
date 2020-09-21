@@ -1,4 +1,6 @@
 2020/9/21 星期一 工作汇报：
 
-1.主要参考文献2017+TVT+Anonymous and Lightweight Authentication for Secure Vehicular Networks写了车辆注册和车辆登录的部分，另外需要进行RSU的注册，在找合适的文献。
+1.主要参考文献2017+TVT+Anonymous and Lightweight Authentication for Secure Vehicular Networks写了车辆注册和车辆登录的部分。
+  另外后面需要用到RSU的参数，在考虑RSU需不需要向TA注册，还是直接使用其参数，然后后面再对其身份进行认证。
+  一遍在找合适的RSU注册的参考文献，一遍在考虑能不能参考上述文章，不注册直接使用RSU参数。
 2.找了一篇综述An Overview of Internet of Vehicles，了解一下IOV和VANET的不同。
