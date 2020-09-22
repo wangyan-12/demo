@@ -1,0 +1,4 @@
+2020/9/22 星期二 工作汇报：
+
+1.找了一篇论文2019+ICOIN+A Lightweight Authentication and Communication Protocol in Vehicular Cloud Computing，里面使用RSU的部分或许可以参考一下，今天主要在看这篇论文。
+2.目前想的是RSU不向TA注册，后面直接对RSU进行认证，先试试这个方式可行得通。
