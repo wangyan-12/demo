@@ -1,0 +1,11 @@
+2020/9/23 星期三 工作汇报：
+
+1.目前基本方案分为几步：
+1）车辆注册
+2）车辆登录
+3）RSU对车辆身份进行认证
+4）RSU对车辆消息进行转化
+5）接收车辆对RSU身份进行认证
+6）接收车辆对消息进行认证
+今天的主要工作是阅读文章A Lightweight Authentication and Communication Protocol in Vehicular Cloud Computing，看对于“RSU对车辆身份进行认证”这一部分能否参考这篇文章。
+2.想了想，还是需要RSU向TA注册，应该方便对于RSU的认证以及防止伪装成RSU的攻击，写了RSU向TA注册这步。
