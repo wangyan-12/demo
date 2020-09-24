@@ -1,0 +1,4 @@
+2020/9/24 星期四 工作汇报：
+
+1.继续在看论文A Lightweight Authentication and Communication Protocol in Vehicular Cloud Computing，考虑怎么实现对车辆的认证。
+2.考虑到是V2V通信，思考发送车辆和接收车辆之间是否需要会话密钥或者其他认证符之类的符号，找到了一篇论文2020+ICISS+An Enhanced Two-factor Authentication Protocol for V2V Communication in VANETs，正在阅读。
