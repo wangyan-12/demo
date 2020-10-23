@@ -1,0 +1,4 @@
+2020/10/23 星期五 工作汇报：
+
+1.在实现了对车辆的身份认证之后，怎么协商密钥是个问题，昨天汇报的那篇Anonymous and Lightweight Authentication for Secure Vehicular Network论文里面的会话密钥协商的方法不能用，因为使用的是对称加密，而且会话密钥很容易就暴露，这也是那篇论文存在的一个安全问题。
+2.找了一篇2017+TITS+Efficient Privacy-Preserving Dual Authentication and Key Agreement Scheme for Secure V2V Communications in an IoV Paradigm的论文，准备细看一下密钥协商部分的方案以及安全性，看可能够参考。
