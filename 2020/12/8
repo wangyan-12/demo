@@ -1,0 +1,4 @@
+2020/12/8 星期二 工作汇报：
+
+1.发现一篇2008年的ICC的论文RAISE: An Efficient RSU-aided Message Authentication Scheme in Vehicular Communication Networks跟现在做的使用RSU公钥来验证的点很相似，不过这篇论文只是提出了这样的一个点，并没有具体的算法，参与实体是TA、RSU和车辆，所以找了一些引用这篇论文的其他论文，看可有具体实现的论文，目前还未发现。
+2.将整个方案整理了出来，因为担心上面提到的问题，所以想在模型上做一下改进，目前的想法是把RSU的工作分担一部分或者大部分给云。
